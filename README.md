@@ -58,16 +58,4 @@ This project bases its analysis on 2025 travel, hotel pricing reports, and event
 - Pricing trend articles by hotel booking platforms
 - Public data from cities hosting major international events
 
----
 
-## License
-
-This project is released under the MIT License.
-
----
-
-## Contact
-
-For questions or collaboration inquiries, please open an issue or contact the author via GitHub.
-
----
